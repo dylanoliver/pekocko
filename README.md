@@ -12,9 +12,8 @@ Pull the front-end app code from "https://github.com/OpenClassrooms-Student-Cent
 2. Open a terminal (Linux/Mac) or command prompt/PowerShell (Windows)
 3. Run npm install from within the project directory
 4. Run npm start
-5. Run your API on http://localhost:3000
-6. Clone this repo into 'backend' folder
-7. Run node server
+5. Clone this repo into 'backend' folder
+6. Run node server
 
 
 
