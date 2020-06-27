@@ -8,11 +8,11 @@ dislike the sauces offered by others.
 ## Installation
 
 Pull the front-end app code from "https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6" project repo and take the following steps:
-1. Clone repo into 'frontend' folder
+1. Make a directory called 'frontend' and clone repo into 'frontend' directory
 2. Open a terminal (Linux/Mac) or command prompt/PowerShell (Windows)
 3. Run npm install from within the project directory
 4. Run npm start
-5. Clone this repo into 'backend' folder
+5. Make a directory called 'backend' and clone this repo into 'backend' directory
 6. Run node server
 
 
