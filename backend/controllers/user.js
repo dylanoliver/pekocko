@@ -1,7 +1,10 @@
-const bcrypt = require('bcrypt');
-const jwt = require('jsonwebtoken');
+const bcrypt = require('bcrypt');  // We need this plugin to hash passwords
+const jwt = require('jsonwebtoken');  // This plugin is used to secure connections via unique tokens
 const User = require('../models/user');
 
+// Function that allows users to register an account
+// We then create an object containing the user information
+// And we push this information to the DB
 exports.signup = (req, res, next) => {
   bcrypt.hash(req.body.password, 10).then(
     (hash) => {
@@ -25,7 +28,9 @@ exports.signup = (req, res, next) => {
     }
   );
 };
-
+// Function that allows users to log into the application
+// We check the email input and compare it to our DB collection
+// And a 24 hour token is generated, which will be compared throughout the connection
 exports.login = (req, res, next) => {
   User.findOne({ email: req.body.email }).then(
     (user) => {

@@ -1,6 +1,6 @@
 const http = require('http');
 const app = require('./app');
-
+// This function will allow us to find a valid port, in number OR string format
 const normalizePort = val => {
   const port = parseInt(val, 10);
 
@@ -14,7 +14,7 @@ const normalizePort = val => {
 };
 const port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
-
+// We're going to need some form of error handling, in case something doesn't work as intended
 const errorHandler = error => {
   if (error.syscall !== 'listen') {
     throw error;

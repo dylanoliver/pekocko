@@ -1,3 +1,4 @@
+// We need jwt to setup our token security system
 const jwt = require('jsonwebtoken');
 
 module.exports = (req, res, next) => {
