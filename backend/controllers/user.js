@@ -31,6 +31,7 @@ exports.signup = (req, res, next) => {
 // Function that allows users to log into the application
 // We check the email input and compare it to our DB collection
 // And a 24 hour token is generated, which will be compared throughout the connection
+
 exports.login = (req, res, next) => {
   User.findOne({ email: req.body.email }).then(
     (user) => {
@@ -48,7 +49,7 @@ exports.login = (req, res, next) => {
           }
           const token = jwt.sign(
             { userId: user._id },
-            'RANDOM_TOKEN_SECRET',
+            'udl*VFMnxp5Crly-({',
             { expiresIn: '24h' });
           res.status(200).json({
             userId: user._id,
