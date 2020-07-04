@@ -8,6 +8,7 @@ const saucesRoutes = require('./routes/sauces');
 const userRoutes = require('./routes/user');
 // We'll use the path plugin to upload our images
 const path = require('path');
+const { response } = require('express');
 
 const app = express();
 
@@ -34,6 +35,9 @@ app.use((req, res, next) => {
 app.use('/images', express.static(path.join(__dirname, 'images')));
 app.use('/api/sauces', saucesRoutes);
 app.use('/api/auth', userRoutes);
-
+app.use(function (err, req, res, next) {
+  console.error(error.stack);
+  res.status(500).send('Unexpected error, server broke!')
+})
 // Our server.js will use all the code in here to make the backend run
 module.exports = app;

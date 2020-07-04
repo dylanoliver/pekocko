@@ -25,7 +25,7 @@ const storage = multer.diskStorage({
             }
         }
         catch (err) {
-            console.log(err)
+            console.error(err)
         }
     },
     filename: (req, file, callback) => {
@@ -36,8 +36,8 @@ const storage = multer.diskStorage({
             callback(null, name + '_' + Date.now() + '.' + extension);
         }
         catch(error) {
-            console.log(error);
-            nextTick(error);
+            console.error(error);
+            next(error);
         }
     }
 });

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Cityscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="40" cy="40" r="32"></circle>
+    </defs>
+    <g id="Cityscape" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <circle stroke="#E01081" stroke-width="8" cx="40" cy="40" r="36"></circle>
+        <g id="Skyscraper-Left" mask="url(#mask-2)">
+            <g transform="translate(18.000000, 38.000000)">
+                <g id="Window" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(4.000000, 4.000000)">
+                    <rect id="Window-Copy-15" fill="#E01081" x="4" y="28" width="2" height="2"></rect>
+                    <rect id="Window-Copy-14" fill="#E01081" x="0" y="28" width="2" height="2"></rect>
+                    <rect id="Window-Copy-13" fill="#E01081" x="4" y="24" width="2" height="2"></rect>
+                    <rect id="Window-Copy-12" fill="#E01081" x="0" y="24" width="2" height="2"></rect>
+                    <rect id="Window-Copy-11" fill="#E01081" x="4" y="20" width="2" height="2"></rect>
+                    <rect id="Window-Copy-10" fill="#E01081" x="0" y="20" width="2" height="2"></rect>
+                    <rect id="Window-Copy-9" fill="#E01081" x="4" y="16" width="2" height="2"></rect>
+                    <rect id="Window-Copy-8" fill="#E01081" x="0" y="16" width="2" height="2"></rect>
+                    <rect id="Window-Copy-7" fill="#E01081" x="4" y="12" width="2" height="2"></rect>
+                    <rect id="Window-Copy-6" fill="#E01081" x="0" y="12" width="2" height="2"></rect>
+                    <rect id="Window-Copy-5" fill="#E01081" x="4" y="8" width="2" height="2"></rect>
+                    <rect id="Window-Copy-4" fill="#E01081" x="0" y="8" width="2" height="2"></rect>
+                    <rect id="Window-Copy-3" fill="#E01081" x="4" y="4" width="2" height="2"></rect>
+                    <rect id="Window-Copy-2" fill="#E01081" x="0" y="4" width="2" height="2"></rect>
+                    <rect id="Window-Copy" fill="#E01081" x="4" y="0" width="2" height="2"></rect>
+                    <rect fill="#E01081" x="0" y="0" width="2" height="2"></rect>
+                </g>
+                <rect id="Base" stroke="#E01081" stroke-width="2" x="1" y="1" width="12" height="36"></rect>
+            </g>
+        </g>
+        <g id="Skyscraper-Right" mask="url(#mask-2)">
+            <g transform="translate(50.000000, 46.000000)">
+                <g id="Window" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(4.000000, 4.000000)">
+                    <rect id="Window-Copy-15" fill="#E01081" x="4" y="28" width="2" height="2"></rect>
+                    <rect id="Window-Copy-14" fill="#E01081" x="0" y="28" width="2" height="2"></rect>
+                    <rect id="Window-Copy-13" fill="#E01081" x="4" y="24" width="2" height="2"></rect>
+                    <rect id="Window-Copy-12" fill="#E01081" x="0" y="24" width="2" height="2"></rect>
+                    <rect id="Window-Copy-11" fill="#E01081" x="4" y="20" width="2" height="2"></rect>
+                    <rect id="Window-Copy-10" fill="#E01081" x="0" y="20" width="2" height="2"></rect>
+                    <rect id="Window-Copy-9" fill="#E01081" x="4" y="16" width="2" height="2"></rect>
+                    <rect id="Window-Copy-8" fill="#E01081" x="0" y="16" width="2" height="2"></rect>
+                    <rect id="Window-Copy-7" fill="#E01081" x="4" y="12" width="2" height="2"></rect>
+                    <rect id="Window-Copy-6" fill="#E01081" x="0" y="12" width="2" height="2"></rect>
+                    <rect id="Window-Copy-5" fill="#E01081" x="4" y="8" width="2" height="2"></rect>
+                    <rect id="Window-Copy-4" fill="#E01081" x="0" y="8" width="2" height="2"></rect>
+                    <rect id="Window-Copy-3" fill="#E01081" x="4" y="4" width="2" height="2"></rect>
+                    <rect id="Window-Copy-2" fill="#E01081" x="0" y="4" width="2" height="2"></rect>
+                    <rect id="Window-Copy" fill="#E01081" x="4" y="0" width="2" height="2"></rect>
+                    <rect fill="#E01081" x="0" y="0" width="2" height="2"></rect>
+                </g>
+                <rect id="Base" stroke="#E01081" stroke-width="2" x="1" y="1" width="12" height="36"></rect>
+            </g>
+        </g>
+        <path d="M30,28 L52,28 L52,72 L30,72 L30,28 Z M46.7619048,68 L46.7619048,70 L48.8571429,70 L48.8571429,68 L46.7619048,68 Z M42.5714286,68 L42.5714286,70 L44.6666667,70 L44.6666667,68 L42.5714286,68 Z M38.3809524,68 L38.3809524,70 L40.4761905,70 L40.4761905,68 L38.3809524,68 Z M34.1904762,68 L34.1904762,70 L36.2857143,70 L36.2857143,68 L34.1904762,68 Z M46.7619048,64 L46.7619048,66 L48.8571429,66 L48.8571429,64 L46.7619048,64 Z M42.5714286,64 L42.5714286,66 L44.6666667,66 L44.6666667,64 L42.5714286,64 Z M38.3809524,64 L38.3809524,66 L40.4761905,66 L40.4761905,64 L38.3809524,64 Z M34.1904762,64 L34.1904762,66 L36.2857143,66 L36.2857143,64 L34.1904762,64 Z M46.7619048,60 L46.7619048,62 L48.8571429,62 L48.8571429,60 L46.7619048,60 Z M42.5714286,60 L42.5714286,62 L44.6666667,62 L44.6666667,60 L42.5714286,60 Z M38.3809524,60 L38.3809524,62 L40.4761905,62 L40.4761905,60 L38.3809524,60 Z M34.1904762,60 L34.1904762,62 L36.2857143,62 L36.2857143,60 L34.1904762,60 Z M46.7619048,56 L46.7619048,58 L48.8571429,58 L48.8571429,56 L46.7619048,56 Z M42.5714286,56 L42.5714286,58 L44.6666667,58 L44.6666667,56 L42.5714286,56 Z M38.3809524,56 L38.3809524,58 L40.4761905,58 L40.4761905,56 L38.3809524,56 Z M34.1904762,56 L34.1904762,58 L36.2857143,58 L36.2857143,56 L34.1904762,56 Z M46.7619048,52 L46.7619048,54 L48.8571429,54 L48.8571429,52 L46.7619048,52 Z M42.5714286,52 L42.5714286,54 L44.6666667,54 L44.6666667,52 L42.5714286,52 Z M38.3809524,52 L38.3809524,54 L40.4761905,54 L40.4761905,52 L38.3809524,52 Z M34.1904762,52 L34.1904762,54 L36.2857143,54 L36.2857143,52 L34.1904762,52 Z M46.7619048,48 L46.7619048,50 L48.8571429,50 L48.8571429,48 L46.7619048,48 Z M42.5714286,48 L42.5714286,50 L44.6666667,50 L44.6666667,48 L42.5714286,48 Z M38.3809524,48 L38.3809524,50 L40.4761905,50 L40.4761905,48 L38.3809524,48 Z M34.1904762,48 L34.1904762,50 L36.2857143,50 L36.2857143,48 L34.1904762,48 Z M46.7619048,44 L46.7619048,46 L48.8571429,46 L48.8571429,44 L46.7619048,44 Z M42.5714286,44 L42.5714286,46 L44.6666667,46 L44.6666667,44 L42.5714286,44 Z M38.3809524,44 L38.3809524,46 L40.4761905,46 L40.4761905,44 L38.3809524,44 Z M34.1904762,44 L34.1904762,46 L36.2857143,46 L36.2857143,44 L34.1904762,44 Z M46.7619048,40 L46.7619048,42 L48.8571429,42 L48.8571429,40 L46.7619048,40 Z M42.5714286,40 L42.5714286,42 L44.6666667,42 L44.6666667,40 L42.5714286,40 Z M38.3809524,40 L38.3809524,42 L40.4761905,42 L40.4761905,40 L38.3809524,40 Z M34.1904762,40 L34.1904762,42 L36.2857143,42 L36.2857143,40 L34.1904762,40 Z M46.7619048,36 L46.7619048,38 L48.8571429,38 L48.8571429,36 L46.7619048,36 Z M42.5714286,36 L42.5714286,38 L44.6666667,38 L44.6666667,36 L42.5714286,36 Z M38.3809524,36 L38.3809524,38 L40.4761905,38 L40.4761905,36 L38.3809524,36 Z M34.1904762,36 L34.1904762,38 L36.2857143,38 L36.2857143,36 L34.1904762,36 Z M46.7619048,32 L46.7619048,34 L48.8571429,34 L48.8571429,32 L46.7619048,32 Z M42.5714286,32 L42.5714286,34 L44.6666667,34 L44.6666667,32 L42.5714286,32 Z M38.3809524,32 L38.3809524,34 L40.4761905,34 L40.4761905,32 L38.3809524,32 Z M34.1904762,32 L34.1904762,34 L36.2857143,34 L36.2857143,32 L34.1904762,32 Z" id="Skyscaper-middle" fill="#E01081" mask="url(#mask-2)"></path>
+        <g id="Antenna" mask="url(#mask-2)" fill="#E01081">
+            <g transform="translate(36.000000, 10.000000)">
+                <rect id="Rectangle-5" x="0" y="8" width="10" height="11"></rect>
+                <rect id="Rectangle-6" x="4" y="0" width="1.81818182" height="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
